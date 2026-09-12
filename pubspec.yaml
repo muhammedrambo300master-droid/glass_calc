@@ -28,3 +28,6 @@ flutter_launcher_icons:
   android: true
   ios: true
   image_path: "assets/icon/calculator-2017-10-10.png"
+  # Adaptive icon settings for modern Android launchers
+  adaptive_icon_background: "#D0D0D0" # Matches the light grey background of your icon
+  adaptive_icon_foreground: "assets/icon/calculator-2017-10-10.png"
