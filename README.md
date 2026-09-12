@@ -3,6 +3,7 @@
   <h1>🧮 Glass_Calc</h1>
   <p><b>Next-Generation iOS Liquid Glassmorphism Calculator for Android</b></p>
 
+ [![Orion Store](https://img.shields.io/badge/Orion_Store-Submitted-purple?style=for-the-badge&logo=android)](https://github.com/muhammedrambo300master-droid/glass_calc)
   [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
   [![Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](https://github.com/muhammedrambo300master-droid/glass_calc/releases)
